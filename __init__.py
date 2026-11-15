@@ -1,0 +1,1 @@
+"""Calculadora gráfica em Tkinter."""
